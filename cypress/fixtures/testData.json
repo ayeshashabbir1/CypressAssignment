@@ -1,0 +1,42 @@
+{
+   "Test1" :
+   
+    { 
+    
+    "fullName": "Test Name",
+    "email":"testuser1@gmail.com",
+    "currentAddress":"Test Current Address",
+    "permanentAddress":"Test Permanent Address"
+
+    },    
+ 
+    "Test3":
+    
+    {
+
+    "firstName": "John",
+    "lastName":  "Mike",
+    "email": "johnmike@gmail.com",
+    "age": "35",
+    "salary": "300000",
+    "department": "Physics"
+
+    },
+
+    "Test4":
+
+    {
+
+
+        "BookName": "Learning JavaScript Design Patterns",
+        "ISBN": "9781449331818",
+        "Title":  "Learning JavaScript Design Patterns",
+        "SubTitle": "A JavaScript and jQuery Developer's Guide",
+        "Author": "Addy Osmani",
+        "Publisher":"O'Reilly Media",
+        "TotalPages": "254"
+    
+    }
+
+}
+
